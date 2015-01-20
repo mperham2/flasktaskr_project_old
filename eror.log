@@ -1,0 +1,1 @@
+/n404 error at 20-01-2015 11:06:16: http://localhost/this-route-does-not-exist//n404 error at 20-01-2015 11:07:43: http://localhost:5000/favicon.ico/n404 error at 20-01-2015 11:07:54: http://localhost:5000/users/does_not_exist/n404 error at 20-01-2015 11:08:39: http://localhost:5000/users/does_not_exist/n404 error at 20-01-2015 11:08:58: http://localhost:5000/does_not_exist
