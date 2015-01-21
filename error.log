@@ -2,3 +2,7 @@
 404 error at 20-01-2015 11:12:07: http://localhost:5000/does_not_exist
 404 error at 20-01-2015 11:15:12: http://localhost:5000/users/derp
 500 error at 20-01-2015 11:21:08: http://localhost:5000/users/
+500 error at 20-01-2015 20:29:09: http://localhost:5000/users/
+404 error at 20-01-2015 20:29:56: http://localhost/this-route-does-not-exist/
+500 error at 20-01-2015 20:32:33: http://localhost:5000/users/
+404 error at 20-01-2015 20:39:28: http://localhost/this-route-does-not-exist/
