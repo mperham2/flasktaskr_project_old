@@ -14,3 +14,4 @@
 404 error at 21-01-2015 20:11:34: http://localhost:5000/favicon.ico
 404 error at 21-01-2015 20:28:38: http://localhost/this-route-does-not-exist/
 404 error at 21-01-2015 20:31:01: http://localhost/this-route-does-not-exist/
+404 error at 21-01-2015 20:50:00: http://localhost/this-route-does-not-exist/
