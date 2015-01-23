@@ -24,3 +24,7 @@
 404 error at 22-01-2015 19:47:12: http://localhost/this-route-does-not-exist/
 404 error at 22-01-2015 19:47:40: http://localhost/this-route-does-not-exist/
 404 error at 22-01-2015 19:48:20: http://localhost/this-route-does-not-exist/
+404 error at 22-01-2015 20:14:15: http://localhost/api/tasks/
+404 error at 22-01-2015 21:00:48: http://localhost/api/tasks/2
+404 error at 22-01-2015 21:18:31: http://localhost/this-route-does-not-exist/
+404 error at 22-01-2015 21:19:22: http://localhost/this-route-does-not-exist/
